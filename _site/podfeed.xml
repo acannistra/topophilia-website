@@ -10,33 +10,33 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 >
  
 <channel>
-<title></title>
+<title>Topophilia</title>
 <atom:link href="http://localhost:4000/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://localhost:4000</link>
-<description></description>
-<lastBuildDate>Thu, 01 Mar 2018 22:32:57 -0800</lastBuildDate>
+<description>Topophilia is a podcast about places, the people who care for them, and the things we love to do in them.</description>
+<lastBuildDate>Fri, 02 Mar 2018 13:03:33 -0800</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com</generator>
-<itunes:summary></itunes:summary>
-<itunes:author></itunes:author>
-<itunes:explicit></itunes:explicit>
-<itunes:image href="http://localhost:4000" />
+<itunes:summary>...</itunes:summary>
+<itunes:author>Tony Cannistra and Will Russack</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://localhost:4000/assets/images/topophilia-logo-square.jpg" />
 <itunes:owner>
-<itunes:name></itunes:name>
-<itunes:email></itunes:email>
+<itunes:name>Tony Cannistra and Will Russack</itunes:name>
+<itunes:email>tony.cannistra@gmail.com</itunes:email>
 </itunes:owner>
-<managingEditor> ()</managingEditor>
-<itunes:subtitle></itunes:subtitle>
+<managingEditor>tony.cannistra@gmail.com (Tony Cannistra and Will Russack)</managingEditor>
+<itunes:subtitle>a podcast about places, the people who care for them, and the things we love to do in them.</itunes:subtitle>
 <image>
-<title></title>
-<url>http://localhost:4000</url>
+<title>Topophilia</title>
+<url>http://localhost:4000/assets/images/topophilia-logo-square.jpg</url>
 <link>http://localhost:4000</link>
 </image>
-<itunes:category text="">
-<itunes:category text="" />
-<itunes:category text="" />
+<itunes:category text="Outdoors">
+<itunes:category text="Recreation" />
+<itunes:category text="Public Lands" />
 </itunes:category>
 
   <item>
@@ -44,7 +44,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://localhost:4000/episodes/2018/01/01/0-wilderness.html</link>
     <comments>http://localhost:4000/episodes/2018/01/01/0-wilderness.html#comments</comments>
     <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Topophilia", "avatar"=>"/assets/images/topophilia-logo.jpg", "bio"=>"A podcast about place.", "location"=>"Seattle, Washington. USA.", "email"=>nil, "uri"=>nil, "bitbucket"=>nil, "codepen"=>nil, "dribbble"=>nil, "flickr"=>nil, "facebook"=>"tony.cannistra", "foursquare"=>nil, "github"=>"acannistra", "google_plus"=>nil, "keybase"=>nil, "instagram"=>"tony_cannistra", "lastfm"=>"acannistra", "linkedin"=>"tonycannistra", "pinterest"=>nil, "soundcloud"=>nil, "stackoverflow"=>nil, "steam"=>nil, "tumblr"=>nil, "twitter"=>nil, "vine"=>nil, "weibo"=>nil, "xing"=>nil, "youtube"=>nil}]]></dc:creator>
+    <dc:creator><![CDATA[]]></dc:creator>
+
+    <category><![CDATA[outdoors]]></category>
+
+    <category><![CDATA[Wilderness]]></category>
+
+    <category><![CDATA[wild places]]></category>
 
 
     <guid isPermaLink="true">http://localhost:4000/episodes/2018/01/01/0-wilderness.html</guid>
@@ -62,9 +68,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]></itunes:subtitle>
     <itunes:summary><![CDATA[<p>This is Episode 0.</p>
 ]]></itunes:summary>
-    <itunes:author></itunes:author>
-    <itunes:image href="http://localhost:4000" />
-    <itunes:explicit></itunes:explicit>
+    <itunes:author>Tony Cannistra and Will Russack</itunes:author>
+    <itunes:image href="http://localhost:4000/assets/images/topophilia-logo-square.jpg" />
+    <itunes:explicit>no</itunes:explicit>
     <itunes:duration></itunes:duration>
   </item>
 

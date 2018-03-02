@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Topophilia"
-  avatar           : "/assets/images/topophilia-logo.jpg"
+  avatar           : "/assets/images/topophilia-logo-square.jpg"
   bio              : "A podcast about place."
   location         : "Seattle, Washington. USA."
   email            : 
@@ -106,6 +106,22 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+# Podcast Settings
+podcast_url: http://www.topophiliapodcast.com
+podcast_album_art: /assets/images/topophilia-logo-square.jpg
+podcast_title: Topophilia
+podcast_owner: Tony Cannistra and Will Russack 
+podcast_email: tony.cannistra@gmail.com
+podcast_category: Outdoors
+podcast_subcategory_one: Recreation
+podcast_subcategory_two: Public Lands
+podcast_explicit: "no"
+podcast_author: Tony Cannistra and Will Russack
+podcast_description: Topophilia is a podcast about places, the people who care for them, and the things we love to do in them.
+podcast_summary: "..."
+podcast_subtitle: a podcast about places, the people who care for them, and the things we love to do in them.
 
 
 # Reading Files
