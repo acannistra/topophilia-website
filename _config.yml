@@ -1,6 +1,3 @@
-theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -8,66 +5,60 @@ remote_theme: "mmistakes/minimal-mistakes"
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 # Site Settings
-locale                   : "en-US"
-title                    : "Topophilia Podcast"
+locale                   : "en"
+title                    : "Topophilia."
+logo_url                 : "/assets/images/topophilia-logo.jpg"
 title_separator          : "-"
-name                     : "by Tony Cannistra and Will Russack."
-description              : "A podcast about places, the people who care for them, and the things we love to do in them."
+name                     : "by <a href=\"http://anthonycannistra.com\">Tony Cannistra</a> and <a href=\"http://www.willrussack.com\">Will Russack</a>"
+description              : "DESRIPTION"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+teaser                   : "/assets/images/greenriver.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid                : 139346593552386
+    num_posts            : 5 # 5 (default)
+    colorscheme          : "light" # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-reCaptcha:
-  siteKey                :
-  secret                 :
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
+alexa_site_verification  :
 yandex_site_verification :
-naver_site_verification  :
 
 # Social Sharing
 twitter:
   username               :
 facebook:
-  username               :
+  username               : tony.cannistra
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -80,37 +71,35 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : ""
 
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Topophilia"
+  avatar           : "/assets/images/topophilia-logo.jpg"
+  bio              : "A podcast about place."
+  location         : "Seattle, Washington. USA."
+  email            : 
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : tony.cannistra
   foursquare       :
-  github           :
-  gitlab           :
+  github           : acannistra
   google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  keybase          : 
+  instagram        : tony_cannistra
+  lastfm           : acannistra
+  linkedin         : tonycannistra
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
   tumblr           :
   twitter          :
   vine             :
@@ -186,16 +175,18 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins (previously gems:)
-plugins:
+# Plugins
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
+
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -204,6 +195,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
 
 
 # Archives
@@ -245,14 +237,28 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # episodes
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: true
       share: true
       related: true
+
+collections: 
+  posts:
+    output: true
+    permalink: /episodes/:year/:month/:day/:title:output_ext ## label with episodes!
+
+jekyll-archives:
+  enabled:
+    - year
+    - month    
+  layout: 'archive-taxonomy'
+  permalinks:
+    year: /episodes/:year/
+    month: /episodes/:year/:month/
+

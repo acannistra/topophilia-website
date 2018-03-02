@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+ 
+<channel>
+<title></title>
+<atom:link href="http://localhost:4000/feed/podcast" rel="self" type="application/rss+xml" />
+<link>http://localhost:4000</link>
+<description></description>
+<lastBuildDate>Thu, 01 Mar 2018 22:32:57 -0800</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://jekyllrb.com</generator>
+<itunes:summary></itunes:summary>
+<itunes:author></itunes:author>
+<itunes:explicit></itunes:explicit>
+<itunes:image href="http://localhost:4000" />
+<itunes:owner>
+<itunes:name></itunes:name>
+<itunes:email></itunes:email>
+</itunes:owner>
+<managingEditor> ()</managingEditor>
+<itunes:subtitle></itunes:subtitle>
+<image>
+<title></title>
+<url>http://localhost:4000</url>
+<link>http://localhost:4000</link>
+</image>
+<itunes:category text="">
+<itunes:category text="" />
+<itunes:category text="" />
+</itunes:category>
+
+  <item>
+    <title>Episode 0: Wilderness</title>
+    <link>http://localhost:4000/episodes/2018/01/01/0-wilderness.html</link>
+    <comments>http://localhost:4000/episodes/2018/01/01/0-wilderness.html#comments</comments>
+    <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+    <dc:creator><![CDATA[{"name"=>"Topophilia", "avatar"=>"/assets/images/topophilia-logo.jpg", "bio"=>"A podcast about place.", "location"=>"Seattle, Washington. USA.", "email"=>nil, "uri"=>nil, "bitbucket"=>nil, "codepen"=>nil, "dribbble"=>nil, "flickr"=>nil, "facebook"=>"tony.cannistra", "foursquare"=>nil, "github"=>"acannistra", "google_plus"=>nil, "keybase"=>nil, "instagram"=>"tony_cannistra", "lastfm"=>"acannistra", "linkedin"=>"tonycannistra", "pinterest"=>nil, "soundcloud"=>nil, "stackoverflow"=>nil, "steam"=>nil, "tumblr"=>nil, "twitter"=>nil, "vine"=>nil, "weibo"=>nil, "xing"=>nil, "youtube"=>nil}]]></dc:creator>
+
+
+    <guid isPermaLink="true">http://localhost:4000/episodes/2018/01/01/0-wilderness.html</guid>
+    <description>
+        <![CDATA[This is Episode 0.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>This is Episode 0.</p>
+]]>
+    </content:encoded>
+
+    <enclosure url="" length="" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[This is Episode 0.
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>This is Episode 0.</p>
+]]></itunes:summary>
+    <itunes:author></itunes:author>
+    <itunes:image href="http://localhost:4000" />
+    <itunes:explicit></itunes:explicit>
+    <itunes:duration></itunes:duration>
+  </item>
+
+</channel>
+</rss>
