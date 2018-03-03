@@ -5,16 +5,8 @@ layout: single
 header:
     image: "images/tetons.jpg"
 ---
-I'm Tony, a graduate student in the [Biology department](http://www.biology.washington.edu/) at the [University of Washington](http://www.washington.edu). I'm also a Data Science Fellow at UW's [eScience institute](http://escience.washington.edu). I use techniques from data science to better predict biological responses to climate change in the [Buckley lab](http://faculty.washington.edu/lbuckley). I graduated [Tufts University](http://www.tufts.edu) in Medford, MA in 2015, where I got my B.S. in Computer Science and Biology. 
 
-I live in Seattle, Washington. I'm an outdoor enthusiast and naturalist. I like to run, ski, hike, backpack, and climb high peaks. I'm from [Rhode Island](https://en.wikipedia.org/wiki/Rhode_island), and I have lived in [Colorado](https://en.wikipedia.org/wiki/Aspen,_Colorado) and [Massachusetts](https://en.wikipedia.org/wiki/Somerville,_Massachusetts). When I'm not in school or recreating outdoors, I work as an Outdoor School instructor at REI. [Take a class with us!](https://www.rei.com/learn.html)
+# A Podcast about Place 
+We concieved of Topophilia at a whiskey bar in Seattle's Fremont neighborhood. In particular, after listening to us banter back and forth in our own conversation for 15 minutes, a friend of ours (likely out of frustration!) suggested "Hey, guys––why don't you make a podcast so you can always listen to yourselves talk." So, we did. 
 
-You can e-mail me at [tonycan@uw.edu](mailto:tonycan@uw.edu).
-
-[My CV.](/assets/TonyCannistraCV.pdf)
-
-![](/assets/images/cig_logo.png){: width="100"  height="100"} ![](https://info.nols.edu/hubfs/Logos/NOLS_WM_BADGE_CREDENTIAL-WILDERNESS%20FIRST%20AID.png){: width="150"  height="150"}
-
-Recent [Instagram](http://instagram.com/tony_cannistra) photos:
-
-<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/a3d521bdd5175396ba5aa8ace53481c4.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+This is a podcast about places, the people who care for them, and the things we love to do in them. We realized that as the current state of public lands, recreation, resource extraction, and politics continues to get more complex and the consequences more significant, we had a desire to dig into these issues and share our ideas as well as the ideas of others. We hope that by doing so, we will not only further our own knowledge, but we will inspire you, our listeners, to think more deeply and engage more confidently in the ownership and use of the landscapes around you. Lastly, we want to recognize that we are not journalists, and that we will certainly experience some growing pains and might even run into some uncomfortable truths while attempting to shed some light on different issues. Despite that, we are greatly looking forward to sharing our thoughts with you and hope that you will do the same with us
