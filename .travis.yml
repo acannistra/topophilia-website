@@ -1,4 +1,5 @@
 {
+  "cache": "bundler",
   "branches":{
     "only": "gh-pages"
   },
