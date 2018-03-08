@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en"
 title                    : "Topophilia."
-logo_url                 : "/assets/images/topophilia-logo.jpg"
+logo_url                 : "/assets/images/logo-main-small.jpg"
 title_separator          : "-"
 name                     : "by <a href=\"http://anthonycannistra.com\">Tony Cannistra</a> and <a href=\"http://www.willrussack.com\">Will Russack</a>"
-description              : "DESRIPTION"
+description              : "Topophilia is a podcast about place."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -88,14 +88,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : tony.cannistra
+  facebook         : 
   foursquare       :
-  github           : acannistra
+  github           : 
   google_plus      :
   keybase          : 
-  instagram        : tony_cannistra
-  lastfm           : acannistra
-  linkedin         : tonycannistra
+  instagram        : 
+  lastfm           : 
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -267,7 +267,7 @@ defaults:
 collections: 
   posts:
     output: true
-    permalink: /episodes/:year/:month/:day/:title:output_ext ## label with episodes!
+    permalink: /episodes/:year/:month/:day-:title:output_ext ## label with episodes!
 
 jekyll-archives:
   enabled:
