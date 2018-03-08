@@ -37,7 +37,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <url>{{ site.url }}{{ site.podcast_album_art }}</url>
 <link>{{ site.url }}</link>
 </image>
-<itunes:category text="{{ site.podcast_category }}"></itunes:category>
+<itunes:category text="Sports &amp; Recreation"></itunes:category>
+        <itunes:category text="Sports &amp; Recreation">
+            <itunes:category text="Outdoor"/>
+        </itunes:category>
+        <itunes:category text="Society &amp; Culture">
+        <itunes:category text="Places &amp; Travel"/>
+</itunes:category>
 {% for ep in site.posts %}
   <item>
     <title>{{ ep.title }}</title>
