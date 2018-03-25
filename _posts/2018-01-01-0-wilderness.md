@@ -6,7 +6,8 @@ categories:
     - Wilderness
     - wild places
 header: 
-    image: /assets/images/greenriver.jpg
+    image: /assets/images/1979_map.jpg
+    caption: "1979 Maroon Bells - Snowmass Wilderness Watercolor Map. Joy Caudill and Connie Harvey"
 ---
 
 This is Episode 0. 
