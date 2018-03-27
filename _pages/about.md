@@ -9,7 +9,7 @@ feature_russack:
     image_path: "/assets/images/russack-fb-small.jpg"
     alt: "Will Russack"
     title: "Will Russack"
-    excerpt: 'Will Russack is a photographer currently living in Seattle. He received his B.S in Environmental Studies from Tufts University, and his B.F.A in Photography from the School of the Museum of Fine Arts, Boston. Drawing on this cross-disciplinary approach, Will’s photographs address mankind’s relationship with the natural world.'
+    excerpt: 'Will Russack is a accordian player currently living in Seattle. He received his B.S in Environmental Studies from Tufts University, and his B.F.A in Photography from the School of the Museum of Fine Arts, Boston. Drawing on this cross-disciplinary approach, Will’s photographs address mankind’s relationship with the natural world.'
     url: "http://www.willrussack.com"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
