@@ -4,12 +4,12 @@ permalink: /about/
 layout: single
 header:
     image: "images/tetons.jpg"
-    
+
 feature_russack:
     image_path: "/assets/images/russack-fb-small.jpg"
     alt: "Will Russack"
     title: "Will Russack"
-    excerpt: 'Will Russack is a restoration associate with the Mountains to Sound Greenway Trust, where he helps improve the health of public lands in the Puget Sound region. He's an avid skier, backpacker, and photographer, and enjoys being dragged to live concerts by Tony. Will received his B.S in Environmental Studies from Tufts University, and his B.F.A in Photography from the School of the Museum of Fine Arts, Boston.'
+    excerpt: "Will Russack is a restoration associate with the Mountains to Sound Greenway Trust, where he helps improve the health of public lands in the Puget Sound region. He's an avid skier, backpacker, and photographer, and enjoys being dragged to live concerts by Tony. Will received his B.S in Environmental Studies from Tufts University, and his B.F.A in Photography from the School of the Museum of Fine Arts, Boston."
     url: "http://www.willrussack.com"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
