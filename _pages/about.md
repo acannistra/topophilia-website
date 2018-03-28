@@ -18,7 +18,7 @@ feature_cannistra:
     image_path: /assets/images/tony-headshot-small.jpg
     alt: "Tony Cannistra"
     title: "Tony Cannistra"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: "Tony Cannistra is a graduate student in the Department of Biology at the University of Washington in Seattle. His graduate research focuses on using data science and machine learning techniques to predict ecosystem responses to climate change. Tony enjoys skiing, running, and walking the trails of the Pacific Northwest, which are mostly excuses to drink celebratory beers in beautiful locations. He received his B.S. in Computer Science and Biology from Tufts University."
     url: "http://www.anthonycannistra.com"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
@@ -30,11 +30,11 @@ This is a podcast about places, the people who care for them, and the things we 
 
 ## The Team
 ![image-right]({{page.feature_russack.image_path}}){: .align-left}
-**{{page.feature_russack.title}}**: {{page.feature_russack.excerpt}}
+**{{page.feature_russack.title}}**: {{page.feature_russack.excerpt}} <a href="{{page.feature_russack.url}}">{{page.feature_russack.url}}</a>
 
 <div style="height: 80px"> </div>
 
-![image-left]({{page.feature_cannistra.image_path}}){: .align-left}**{{page.feature_cannistra.title}}**: {{page.feature_cannistra.excerpt}}
+![image-left]({{page.feature_cannistra.image_path}}){: .align-left}**{{page.feature_cannistra.title}}**: {{page.feature_cannistra.excerpt}} <a href="{{page.feature_cannistra.url}}">{{page.feature_cannistra.url}}</a> 
 
 
 
