@@ -15,7 +15,7 @@ deploy:
   provider: s3
   access_key_id: "$ARTIFACTS_KEY"
   secret_access_key: "$ARTIFACTS_SECRET"
-  bucket: static.topophiliapodcast.com
+  bucket: "staging.topophiliapodcast.com"
   skip_cleanup: true
   upload-dir: "$TRAVIS_BRANCH"
   local-dir: _site
