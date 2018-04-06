@@ -1,4 +1,9 @@
 cache: bundler
+branches:
+  only: 
+    - gh-pages
+    - /^release-.*/
+language: ruby
 rvm: 2.1
 script: bundle exec jekyll build
 group: stable
