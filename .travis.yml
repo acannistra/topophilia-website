@@ -5,6 +5,8 @@ branches:
   - "/^release-.*/"
 language: ruby
 rvm: 2.1
+before_script: 
+  - bash setup-staging.sh
 script: bundle exec jekyll build
 group: stable
 dist: trusty
