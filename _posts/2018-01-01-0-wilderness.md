@@ -10,6 +10,7 @@ header:
     image: /assets/images/1979_map.jpg
     caption: "1979 Maroon Bells - Snowmass Wilderness Watercolor Map. Joy Caudill and Connie Harvey [(full size)](/assets/images/1979_map.jpg)"
 
+excerpt: "In the inaugural episode of Topophilia, we dig into american Wilderness, past and future."
 ---
 
 Wilderness is a fundamental part of the American land preservation equation. First designated by the U.S. Forest Service in 1924, and later formally established by the [1964 Wilderness Act](https://www.wilderness.net/nwps/legisact), America's 764 federally-designated Wilderness areas represent almost 110 million acres (an area [roughly the size of California](https://www.wolframalpha.com/input/?i=110+million+acres+divided+by+(size+of+california+in+acres))) of permanently protected roadless land. 
