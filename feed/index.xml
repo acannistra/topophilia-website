@@ -25,7 +25,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:summary>{{ site.podcast_summary }}</itunes:summary>
 <itunes:author>{{ site.podcast_author }}</itunes:author>
 <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
-<itunes:image href="{{ site.podcast_album_art | absolute_url }}" />
+<itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
 <itunes:owner>
 <itunes:name>{{ site.podcast_owner }}</itunes:name>
 <itunes:email>{{ site.podcast_email }}</itunes:email>
@@ -34,8 +34,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
 <image>
 <title>{{ site.podcast_title }}</title>
-<url>{{ site.podcast_album_art | absolute_url }}</url>
-<link>{{ site.url }}{{site.baseurl}}</link>
+<url>{{ site.url }}{{ site.podcast_album_art }}</url>
+<link>{{ site.url }}</link>
 </image>
 <itunes:category text="Sports &amp; Recreation"></itunes:category>
         <itunes:category text="Sports &amp; Recreation">
@@ -69,7 +69,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
     <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
-    <itunes:image href="{{ site.url }}{{ site.podcast_album_art |}}" />
+    <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
     <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
   </item>
