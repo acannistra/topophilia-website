@@ -12,8 +12,8 @@ logo_url                 : "/assets/images/logo-main-small.jpg"
 title_separator          : "-"
 name                     : "by <a href=\"http://anthonycannistra.com\">Tony Cannistra</a> and <a href=\"http://www.willrussack.com\">Will Russack</a>"
 description              : "Topophilia is a podcast about place."
-url                      : "http://staging.topophiliapodcast.com"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/$BASEURL" # the subpath of your site, e.g. "/blog"
+url                      : $URLBASE #"http://staging.topophiliapodcast.com" the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/$STAGINGDIR" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/greenriver.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -110,7 +110,7 @@ author:
 
 # Podcast Settings
 podcast_url: http://www.topophiliapodcast.com
-podcast_album_art: /assets/images/topophilia-logo-square-green.jpg
+podcast_album_art: /assets/images/podcastcover.png 
 podcast_title: Topophilia
 podcast_owner: Tony Cannistra and Will Russack 
 podcast_email: tony.cannistra@gmail.com
