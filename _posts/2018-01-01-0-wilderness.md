@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: podcast-episode
 title: "Episode 0: Wilderness"
 categories:
     - outdoors
