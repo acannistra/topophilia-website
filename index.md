@@ -12,7 +12,7 @@ intro:
 
 ---
 
-## Topophilia <small>is a podcast about place, made by Tony Cannistra and Will Russack.</small>.
+## Topophilia <small>is a podcast about place, made by Tony Cannistra and Will Russack.</small>
 
 **Coming April/May 2018**. Say Hey: [hey@topophiliapodcast.com](mailto:hey@topophiliapodcast.com)
 
