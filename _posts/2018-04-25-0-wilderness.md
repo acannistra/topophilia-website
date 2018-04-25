@@ -9,8 +9,15 @@ header:
     teaser: /assets/images/1979_map.jpg
     image: /assets/images/1979_map.jpg
     caption: "1979 Maroon Bells - Snowmass Wilderness Watercolor Map. Joy Caudill and Connie Harvey [(full size)](/assets/images/1979_map.jpg)"
-
+author_profile: false
 excerpt: "In the inaugural episode of Topophilia, we dig into american Wilderness, past and future."
+image: /assets/images/1979_map.jpg
+podcast_link: http://static.topophiliapodcast.com/audio/episode0-finalmix.mp3
+podcast_file_size: "31.9MB"
+podcast_duration: "32:12"
+podcast_length: 31858581
+itunes_link: "#"
+stitcher_link: "#"
 ---
 
 Wilderness is a fundamental part of the American land preservation equation. First designated by the U.S. Forest Service in 1924, and later formally established by the [1964 Wilderness Act](https://www.wilderness.net/nwps/legisact), America's 764 federally-designated Wilderness areas represent almost 110 million acres (an area [roughly the size of California](https://www.wolframalpha.com/input/?i=110+million+acres+divided+by+(size+of+california+in+acres))) of permanently protected roadless land. 
@@ -30,4 +37,4 @@ To highlight the rich history of Wilderness designation in the United States, we
 We have many people to thank for helping with this episode, especially: Ben Greuel and Dr. Kevin Marsh for their time, knowledge, and willingness to talk; our many friend-editors who endured drafts and gave great feedback; our respective housemates Liz, Sarah, Paul, Max, and Granite for being quiet while we recorded things, and the makers of [Rainier](http://rainierbeer.com) for fueling our late-night recording sessions.
 
 
-Music in this episode courtesy of [Broke For Free](http://freemusicarchive.org/music/Broke_For_Free/Something_EP/Broke_For_Free_-_Something_EP_-_05_Something_Elated) and [freemusicarchive.org](http://freemusicarchive.org). Additional sound effects from [ZapSplat](https://www.zapsplat.com).
+Music in this episode courtesy of [Broke For Free](http://freemusicarchive.org/music/Broke_For_Free/Something_EP/Broke_For_Free_-_Something_EP_-_05_Something_Elated), [Latché Swing](http://freemusicarchive.org/music/Latch_Swing/demo_2008/Hungaria), and [freemusicarchive.org](http://freemusicarchive.org). Additional sound effects from [ZapSplat](https://www.zapsplat.com).
