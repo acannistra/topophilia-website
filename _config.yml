@@ -110,7 +110,7 @@ author:
 
 # Podcast Settings
 podcast_url: http://www.topophiliapodcast.com
-podcast_album_art: assets/images/podcastcover.png
+podcast_album_art: "/assets/images/podcastcover.png"
 podcast_title: Topophilia
 podcast_owner: Tony Cannistra and Will Russack 
 podcast_email: tony.cannistra@gmail.com
