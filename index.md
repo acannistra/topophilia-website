@@ -12,7 +12,9 @@ intro:
 
 ---
 
-## Topophilia <small>is a podcast about place</small>.
+## Topophilia <small>is a podcast about place, made by Tony Cannistra and Will Russack.</small>.
+
+**Coming April/May 2018**. Say Hey: [hey@topophiliapodcast.com](mailto:hey@topophiliapodcast.com)
 
 This is a podcast about places, the people who care for them, and the things we love to do in them. We realized that as the current state of public lands, recreation, resource extraction, and politics continues to get more complex and the consequences more significant, we had a desire to dig into these issues and share our ideas as well as the ideas of others.
 
