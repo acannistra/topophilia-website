@@ -16,8 +16,8 @@ podcast_link: http://static.topophiliapodcast.com/audio/episode0-finalmix.mp3
 podcast_file_size: "31.9MB"
 podcast_duration: "32:12"
 podcast_length: 31858581
-itunes_link: "#"
-stitcher_link: "#"
+itunes_link: "https://itunes.apple.com/us/podcast/episode-0-wilderness/id1376740928?i=1000409834824&mt=2"
+stitcher_link: "https://www.stitcher.com/s?eid=54242129&refid=stpr"
 ---
 
 Wilderness is a fundamental part of the American land preservation equation. First designated by the U.S. Forest Service in 1924, and later formally established by the [1964 Wilderness Act](https://www.wilderness.net/nwps/legisact), America's 764 federally-designated Wilderness areas represent almost 110 million acres (an area [roughly the size of California](https://www.wolframalpha.com/input/?i=110+million+acres+divided+by+(size+of+california+in+acres))) of permanently protected roadless land. 
