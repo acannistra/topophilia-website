@@ -8,7 +8,7 @@ categories:
 header: 
     teaser: /assets/images/1979_map.jpg
     image: /assets/images/1979_map.jpg
-    caption: "1979 Maroon Bells - Snowmass Wilderness Watercolor Map. Joy Caudill and Connie Harvey [(full size)](/assets/images/1979_map.jpg)"
+    caption: "1979 Maroon Bells - Snowmass Wilderness Watercolor Map. Joy Caudill and Connie Harvey [(full size)](/assets/images/1979_map.jpg). Image courtesy [Wilderness Workshop](http://wildernessworkshop.org)."
 author_profile: false
 excerpt: "In the inaugural episode of Topophilia, we dig into american Wilderness, past and future."
 image: /assets/images/1979_map.jpg
