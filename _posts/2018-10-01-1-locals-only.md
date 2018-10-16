@@ -23,6 +23,8 @@ stitcher_link: "none"
     table tr td {border: none; text-align: left; vertical-align: top}
 </style>
 
+What does it mean to be a "local" somewhere? For us, local status is deeply connected to intimate knowledge of a place --- the best secret camping spots, the cheapest happy hour, leftover powder stashes, and empty saturday morning trails. In this episode we look into how we define locals, and along the way we confront some of our own preconceptions. We speak with three people---Alison Miller of Leavenworth, WA; Matt Lanning of Aspen, CO, and Gabe Joseph of Santa Fe, NM---who help us along this journey. It turns out that local identity is a little more nuanced than we imagined.
+
 ## In This Episode
 
 <table cellspacing="0" style="border:none; font-size: 1em">
@@ -32,7 +34,7 @@ stitcher_link: "none"
         </td>
         <td>
             <p>
-                <b>Gabe Joseph</b>: etc etc
+                <b>Gabe Joseph</b>: Software Engineer and former dirtbag. Santa Fe, New Mexico.
             </p>
         </td>
     </tr>
@@ -43,7 +45,7 @@ stitcher_link: "none"
         </td>
         <td>
             <p>
-                <a href="https://alisonmillerarch.com/about/"><b>Alison Miller</b></a>: I lived in tidewater Virginia, northern Arizona, the Willamette Valley (Bachelor of Architecture, minor in Historic Preservation, University of Oregon ’08), and in Grand Teton and Yosemite National Parks before settling in Leavenworth in 2013. My move to Leavenworth was primarily inspired by rock climbing, but I decided to stay for the people.  After four educational and enjoyable years of working at a local architecture firm, I set off on my own in search of a flexible lifestyle in which I can still serve the community. As an architect, I love learning about each client’s unique needs and desires and figuring out how to make that a reality. I also strive to bring more sustainable design and building methods into my work, considering how each project can have a positive impact on the community as a whole. When I’m not busy architecting, I spend time with friends and family, work on being a community activist, and enjoy many of the amazing outdoor opportunities right out my back door, especially rock climbing, trail running, and skiing. My dog likes skiing the best.
+                <a href="https://alisonmillerarch.com/about/"><b>Alison Miller</b></a>: Climber, architect, business owner, and climbing community leader. Leavenworth, Washington.
             </p>
         </td>
     </tr>
@@ -53,7 +55,7 @@ stitcher_link: "none"
         </td>
         <td>
             <p>
-               <b>Matt Lanning</b>
+               <b>Matt Lanning</b>: backcountry skier, mountain biker, and Suerte Tequila. Aspen, Colorado.
             </p>
         </td>  
     </tr>
