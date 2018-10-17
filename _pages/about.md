@@ -6,16 +6,16 @@ header:
     image: "images/tetons.jpg"
 
 feature_russack:
-    image_path: "/assets/images/russack-fb-small.jpg"
+    image_path: "/images/russack.jpg"
     alt: "Will Russack"
     title: "Will Russack"
-    excerpt: "Will Russack is a restoration associate with the Mountains to Sound Greenway Trust, where he helps improve the health of public lands in the Puget Sound region. He's an avid skier, backpacker, and photographer, and enjoys being dragged to live concerts by Tony. Will received his B.S in Environmental Studies from Tufts University, and his B.F.A in Photography from the School of the Museum of Fine Arts, Boston."
+    excerpt: "Will Russack is a restoration practitioner working to improve the health of public lands in the Puget Sound region. He's an avid skier, backpacker, and photographer, and enjoys being dragged to live concerts by Tony. Will received his B.S in Environmental Studies from Tufts University, and his B.F.A in Photography from the School of the Museum of Fine Arts, Boston."
     url: "http://www.willrussack.com"
     btn_label: "Personal Website"
     btn_class: "btn--primary"
     
 feature_cannistra:
-    image_path: /assets/images/tony-headshot-small.jpg
+    image_path: "/images/napeequa_crop.jpg"
     alt: "Tony Cannistra"
     title: "Tony Cannistra"
     excerpt: "Tony Cannistra is a graduate student in the Department of Biology at the University of Washington in Seattle. His graduate research focuses on using data science and machine learning techniques to predict ecosystem responses to climate change. Tony enjoys skiing, running, and walking the trails of the Pacific Northwest, which are mostly excuses to drink celebratory beers in beautiful locations. He received his B.S. in Computer Science and Biology from Tufts University."
@@ -32,12 +32,15 @@ This is a podcast about places, the people who care for them, and the things we 
 Got an idea for an episode? Want to tell us we got something wrong? Just want to say hey? [hey@topophiliapodcast.com](mailto:hey@topophiliapodcast.com)
 
 ## The Team
-![image-right]({{page.feature_russack.image_path}}){: .align-left}
-**{{page.feature_russack.title}}**: {{page.feature_russack.excerpt}} <a href="{{page.feature_russack.url}}">{{page.feature_russack.url}}</a>
 
-<div style="height: 80px"> </div>
+<img class="align-left" width="250px" src="{{page.feature_russack.image_path}}"/>**{{page.feature_russack.title}}**: {{page.feature_russack.excerpt}} <a href="{{page.feature_russack.url}}">{{page.feature_russack.url}}</a>
 
-![image-left]({{page.feature_cannistra.image_path}}){: .align-left}**{{page.feature_cannistra.title}}**: {{page.feature_cannistra.excerpt}} <a href="{{page.feature_cannistra.url}}">{{page.feature_cannistra.url}}</a> 
+
+
+<div style="height: 110px"> </div>
+
+
+<img class="align-left" width="250px" src="{{page.feature_cannistra.image_path}}"/>**{{page.feature_cannistra.title}}**: {{page.feature_cannistra.excerpt}} <a href="{{page.feature_cannistra.url}}">{{page.feature_cannistra.url}}</a> 
 
 
 
