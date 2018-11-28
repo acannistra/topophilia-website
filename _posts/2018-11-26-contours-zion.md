@@ -20,3 +20,29 @@ stitcher_link: "https://www.stitcher.com/podcast/topophilia/"
 ---
 
 Picture this: you’re deep in the desert, hiking down your favorite trail, when you stumble upon some “For Sale” signs right alongside it. How would you react? For thousands of visitors to the Narrows trail in Zion National Park, this quickly became reality. When a long-running negotiation between a private landowner and the National Park Service came to a head, this world-famous trail faced an uncertain future. In our most recent Contours we dig into the backstory of these dramatic signs and discover the complex web of public-private land ownership and how it affects access to iconic landscapes.
+
+## In This Episode
+
+<table cellspacing="0" style="border:none; font-size: 1em">
+    <tr>
+        <td style="width: 250px">
+            <img class="align-left" width="250px" src="https://www.zionadventures.com/uploads/9/6/3/0/96305220/billdunn2017_orig.jpg"/>
+        </td>
+        <td>
+            <p>
+                <b>Bill Dunn</b>: Manager, Zion Adventure Company
+            </p>
+        </td>
+    </tr>
+
+    <tr>
+        <td style="width: 250px">
+            <img class="align-left" width="250px" src="https://mediaprocessor.websimages.com/width/224/crop/0,0,190x150/www.savetheland.org/Jim%20Petterson%20photo%2002-25-16.jpg"/>
+        </td>
+        <td>
+            <p>
+                <b>Jim Petterson</b>: Southwest and Colorado State Director, <a href="http://tpl.org">Trust for Public Land</a>
+            </p>
+        </td>
+    </tr>
+</table>
