@@ -1,8 +1,9 @@
 cache: bundler
 branches:
-  only: 
+  only:
     - gh-pages
     - /^release-.*/
+    - /^test-.*/
 language: ruby
 rvm: 2.1
 script: bundle exec jekyll build
