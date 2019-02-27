@@ -3,9 +3,10 @@ branches:
   only:
   - gh-pages
   - "/^release-.*/"
+  - "/^test-.*/"
 language: ruby
 rvm: 2.1
-before_script: 
+before_script:
   - bash setup-staging.sh
 script: bundle exec jekyll build
 group: stable
@@ -20,6 +21,5 @@ deploy:
   upload-dir: "$TRAVIS_BRANCH"
   local-dir: _site
   region: "us-west-2"
-  on: 
+  on:
     all_branches: true
-
