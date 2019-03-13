@@ -37,10 +37,10 @@ Our first conversation is with Carey Favaloro, an Aspen Mountain Ski Patroller, 
 ## Some Photos of Carey and Sammy
 
 <div>
-  <p><img class='buffer' src="/assets/images/carey_sammy_0.jpg"></p>
-  <p><img class='buffer' src="/assets/images/carey_sammy_1.jpg"></p>
-  <p><img class='buffer' src="/assets/images/carey_sammy_2.jpg"></p>
-  <p><img class='buffer' src="/assets/images/carey_sammy_3.jpg"></p>
+  <p><img class='buffer' src="/assets/images/carey_sammy_0.JPG"></p>
+  <p><img class='buffer' src="/assets/images/carey_sammy_1.JPG"></p>
+  <p><img class='buffer' src="/assets/images/carey_sammy_2.JPG"></p>
+  <p><img class='buffer' src="/assets/images/carey_sammy_3.JPG"></p>
   <p><img class = 'buffer' src='/assets/images/carey_sammy_po4.jpg'><p style='margin: 0 auto; text-align: center'><small>Photo: <a href="https://www.katiecassetta.com/">Katie Cassetta</a></small></p></p>
 
 </div>
