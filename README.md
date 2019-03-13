@@ -1,9 +1,7 @@
 # The Topophilia Website
 ![buildstatus](https://travis-ci.org/acannistra/topophilia-website.svg?branch=gh-pages)
 
-## Deployment
-
-*via [Travis](https://travis-ci.org/acannistra/topophilia-website)*
+## Deployment <small>*via [Travis](https://travis-ci.org/acannistra/topophilia-website)*</small>
 
 `gh-pages` builds to http://www.topophiliapodcast.com/
 
