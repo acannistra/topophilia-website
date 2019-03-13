@@ -28,7 +28,11 @@ Welcome to the first installment in our new series Wild Work, which highlights i
 
 Our first conversation is with Carey Favaloro, an Aspen Mountain Ski Patroller, educator, and badass mountain athlete, among many other things. We called up Carey to discuss an inspiring and important project that she’s working on. Carey is racing the Grand Traverse, a 40-mile ski race from Crested Butte to Aspen, Colorado, through the rugged elk mountains. Along the way she’s raising money for the Wilder Women Project, a Colorado non-profit that creates opportunities for women to spend time in wild places together. So far Carey and her partner Sammy Podhurst have raised over $5,000 and counting. During the race Sammy and Carey will have to rely closely on each other to assess avalanche problems, make route-finding decisions, and pick each other up when they are feeling down. As Carey explains, the race is a perfect example of why it’s so important for women to get outside together to learn more about themselves and the spaces they find themselves in. We hope you enjoy listening.
 
-[Carey and Sammy's GoFundMe for the Wild Work Project](https://www.gofundme.com/wilder-women-unite).
+[Carey and Sammy's GoFundMe for the Wilder Women Project](https://www.gofundme.com/wilder-women-unite).
+
+[The Wilder Women Project Website](https://www.wilderwomenproject.org/)
+
+
 
 ## Some Photos of Carey and Sammy
 
@@ -37,6 +41,6 @@ Our first conversation is with Carey Favaloro, an Aspen Mountain Ski Patroller, 
   <p><img class='buffer' src="/assets/images/carey_sammy_1.jpg"></p>
   <p><img class='buffer' src="/assets/images/carey_sammy_2.jpg"></p>
   <p><img class='buffer' src="/assets/images/carey_sammy_3.jpg"></p>
-  <p><img class = 'buffer' src='/assets/images/carey_sammy_po4.jpg'></p>
+  <p><img class = 'buffer' src='/assets/images/carey_sammy_po4.jpg'><p style='margin: 0 auto; text-align: center'><small>Photo: <a href="https://www.katiecassetta.com/">Katie Cassetta</a></small></p></p>
 
 </div>
