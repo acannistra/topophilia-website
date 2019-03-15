@@ -13,6 +13,9 @@ author_profile: false
 excerpt: "In the inaugural episode of Topophilia, we dig into american Wilderness, past and future."
 image: /assets/images/elk_mountains.jpg
 podcast_link: http://static.topophiliapodcast.com/audio/topophilia-wild-work-carey-favaloro-final.mp3
+
+episode_image: "/assets/images/wild-work-cover-carey.png"
+
 podcast_file_size: "57.2MB"
 podcast_duration: "32:26"
 podcast_length: 57220248
