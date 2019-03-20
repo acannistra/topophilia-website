@@ -21,6 +21,14 @@ podcast_duration: "32:26"
 podcast_length: 57220248
 itunes_link: "https://itunes.apple.com/us/podcast/topophilia/id1376740928"
 stitcher_link: "https://www.stitcher.com/podcast/topophila/topophilia/"
+
+music:
+  - name: ROCKY TOP
+    artist: Jason Shaw
+    link: http://freemusicarchive.org/music/Jason_Shaw/
+  - name: Bird on a Wire
+    artist: Snake Oil Salesmen
+    link: http://freemusicarchive.org/music/Snake_Oil_Salesmen/
 ---
 
 <style>

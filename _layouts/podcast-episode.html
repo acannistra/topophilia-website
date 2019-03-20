@@ -39,7 +39,7 @@ layout: default
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
-          
+
         </header>
       {% endunless %}
 
@@ -51,6 +51,15 @@ layout: default
         </div>
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
+        {% if page.music %}
+        <div>
+          <b>Music in this episode:</b>
+            {% for m in page.music %}
+              <span><i>{{m.name}}</i> by <a href="{{m.link}}">{{m.artist}}</a>{% if forloop.last == false %}, {% endif %}</span>
+            {% endfor%}
+        </div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">
