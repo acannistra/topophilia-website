@@ -10,7 +10,7 @@ header:
     image: /assets/images/elk_mountains.jpg
     caption: "The Elk Mountains in Colorado, the site of the Grand Traverse ski race."
 author_profile: false
-excerpt: "In the inaugural episode of Topophilia, we dig into american Wilderness, past and future."
+excerpt: "Our first Wild Work episode, featuring Carey Favaloro."
 image: /assets/images/elk_mountains.jpg
 podcast_link: http://static.topophiliapodcast.com/audio/topophilia-wild-work-carey-favaloro-final.mp3
 
@@ -28,7 +28,7 @@ music:
     link: http://freemusicarchive.org/music/Jason_Shaw/
   - name: Bird on a Wire
     artist: Snake Oil Salesmen
-    link: http://freemusicarchive.org/music/Snake_Oil_Salesmen/
+    link: "http://freemusicarchive.org/music/Snake_Oil_Salesmen/"
 ---
 
 <style>
