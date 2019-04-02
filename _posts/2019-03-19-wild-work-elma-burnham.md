@@ -12,7 +12,7 @@ header:
 author_profile: false
 excerpt: "Elma Burnham, fisherman and community advocate."
 image: http://www.bristolbayboroughak.us/sliderimage/slider1A.jpg
-podcast_link: "http://static.topophiliapodcast.com/audio/wild-work-elma-burnham-1.mp3"
+podcast_link: http://static.topophiliapodcast.com/audio/wild-work-elma-burnham-1.mp3
 
 episode_image: "/assets/images/wild-work-cover-elma.png"
 
