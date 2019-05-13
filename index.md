@@ -53,5 +53,5 @@ Say Hey: [hey@topophiliapodcast.com](mailto:hey@topophiliapodcast.com)
 
 ### Recent Episodes
 {% for post in site.posts limit:5 %}
-  {% include archive-single.html %}
+  {% include archive-single.html type='grid' %}
 {% endfor %}

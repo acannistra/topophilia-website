@@ -28,7 +28,7 @@ stitcher_link: "https://www.stitcher.com/podcast/topophila/topophilia/"
 
 
 ---
-<img style="float: right; padding: 10px" width="40%" src="{{ /assets/images/mollybayer.jpg" | absolute_url }"/>
+<img style="float: right; padding: 10px" width="40%" src="{ /assets/images/mollybayer.jpg | absolute_url }"/>
 
 "This is part 2 of our mentorship series, which we recorded live during a story-telling event at the Patagonia store in Seattle. Today’s story comes to you from Molly Bayer, who reminds us why it’s important to remember what it’s like to be a beginner, even as you become an expert.
 
