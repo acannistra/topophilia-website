@@ -12,7 +12,7 @@ header:
 author_profile: false
 excerpt: "Claire Giordano, artist and writer."
 image: https://scontent.fsea1-1.fna.fbcdn.net/v/t1.0-9/41880585_10155737952422043_1595005816983781376_n.jpg?_nc_cat=109&_nc_ht=scontent.fsea1-1.fna&oh=f610fa5af1b885ff6c8e9c4aed308533&oe=5D7609F9
-podcast_link: http://static.topophiliapodcast.com/audio/molly-draft-2-1557513338.mp3
+podcast_link: http://static.topophiliapodcast.com/audio/claire-final-1557518433.mp3
 
 music:
   - name: "Mighty River"
@@ -20,9 +20,9 @@ music:
     link: https://archive.org/details/rre2018-01-03.flac24/rre2018-01-03_set1_24bit_t01.flac
 
 
-podcast_file_size: "14.7MB"
-podcast_duration: "11:02"
-podcast_length: 14749488
+podcast_file_size: "23.6MB"
+podcast_duration: "19:48"
+podcast_length: 23604168
 itunes_link: "https://itunes.apple.com/us/podcast/topophilia/id1376740928"
 stitcher_link: "https://www.stitcher.com/podcast/topophila/topophilia/"
 
