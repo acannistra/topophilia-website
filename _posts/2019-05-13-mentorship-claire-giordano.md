@@ -55,7 +55,7 @@ gallery:
 ---
 <img style="float: right; padding: 10px" width="40%" src="https://cdn.shopify.com/s/files/1/1699/2341/files/slideshow_1_2048x.jpg?v=1517969552"/>
 
-This is part 3 of our mentorship series, which we recorded live during a story-telling event at the Patagonia store in Seattle. Today’s storyteller, Claire Giordano, tells us about her path to becoming an independent artist and the importance of having mentors who push us to take that first big step. Claire presented photographs and paintings along with her story, which you can find on our website! All images	&copy; Claire Giordano, used with permission.
+This is part 3 of our mentorship series, which we recorded live during a story-telling event at the Patagonia store in Seattle. This episode's storyteller, Claire Giordano, tells us about her path to becoming an independent artist and the importance of having mentors who push us to take that first big step. Claire presented photographs and paintings along with her story, which you can find on our website! All images	&copy; Claire Giordano, used with permission.
 
 {% include gallery caption="&copy; Claire Giordano, used with permission." %}
 
