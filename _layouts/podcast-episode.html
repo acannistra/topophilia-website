@@ -98,3 +98,16 @@ layout: default
     </div>
   {% endif %}
 </div>
+
+<script>
+  // GA play event
+  var eptitle = document.querySelector('h1').textContent.trim()
+  var player = document.querySelector('audio')
+
+  player.addEventListener('play', (event) => {
+    ga('send', 'event', 'audio', 'play', eptitle);
+    console.log("GA: logged play event " + eptitle)
+  })
+
+
+</script>
