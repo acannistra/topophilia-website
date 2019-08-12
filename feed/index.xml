@@ -22,6 +22,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com</generator>
+<itunes:type>episodic</itunes:type>
 <itunes:summary>{{ site.podcast_summary }}</itunes:summary>
 <itunes:author>{{ site.podcast_author }}</itunes:author>
 <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
@@ -37,12 +38,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <url>{{ site.url }}{{site.baseurl}}{{ site.podcast_album_art }}</url>
 <link>{{ site.url }}</link>
 </image>
-<itunes:category text="Sports &amp; Recreation"></itunes:category>
-        <itunes:category text="Sports &amp; Recreation">
-            <itunes:category text="Outdoor"/>
-        </itunes:category>
-        <itunes:category text="Society &amp; Culture">
-        <itunes:category text="Places &amp; Travel"/>
+<itunes:category text="Sports">
+    <itunes:category text="Wilderness"/>
 </itunes:category>
 {% for ep in site.posts %}
   <item>
@@ -70,7 +67,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
     <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
     <itunes:summary><![CDATA[{{ ep.content | strip_html | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
-    <description><![CDATA[{{ ep.content | strip_html | expand_urls: site.url | cdata_escape }}]]></description>
+    <description>
+      <content:encoded>
+        <![CDATA[{{ ep.content | strip_html | expand_urls: site.url | cdata_escape }}]]>
+      </content:encoded>
+    </description>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
 
     {% if ep.episode_image %}
@@ -78,7 +79,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     {% else %}
       <itunes:image href="{{ site.url }}{{site.baseurl}}{{ site.podcast_album_art }}" />
     {% endif %}
-    
+
 
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
     <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
