@@ -6,8 +6,8 @@ categories:
     - mentorship
     - molly-bayer
 header:
-    teaser: "https://scontent.fsea1-1.fna.fbcdn.net/v/t1.0-9/41880585_10155737952422043_1595005816983781376_n.jpg?_nc_cat=109&_nc_ht=scontent.fsea1-1.fna&oh=f610fa5af1b885ff6c8e9c4aed308533&oe=5D7609F9"
-    image: "https://scontent.fsea1-1.fna.fbcdn.net/v/t1.0-9/41880585_10155737952422043_1595005816983781376_n.jpg?_nc_cat=109&_nc_ht=scontent.fsea1-1.fna&oh=f610fa5af1b885ff6c8e9c4aed308533&oe=5D7609F9"
+    teaser: "/assets/images/mollybayer-cover.jpg"
+    image: "/assets/images/mollybayer-cover.jpg"
     caption: "Image courtesy Molly Bayer"
 author_profile: false
 excerpt: "Molly Bayer, Outdoor Instructor."
