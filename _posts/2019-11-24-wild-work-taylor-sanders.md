@@ -6,8 +6,8 @@ categories:
     - wild-work
     - taylor-sanders
 header:
-    teaser: "/assets/images/chickens-many.jpg"
-    image: "/assets/images/chickens-many.jpg"
+    teaser: "/assets/images/chickens-many.JPG"
+    image: "/assets/images/chickens-many.JPG"
     caption: "Chickens at [Long Table Farmstead](https://www.longtablefarmstead.com/)."
 author_profile: false
 excerpt: "Taylor Sanders, farmer and regenerative agriculture expert in Colorado."
