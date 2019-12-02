@@ -13,7 +13,6 @@ author_profile: false
 excerpt: "Taylor Sanders, farmer and regenerative agriculture expert in Colorado."
 image: http://www.bristolbayboroughak.us/sliderimage/slider1A.jpg
 podcast_link: "http://static.topophiliapodcast.com/audio/taylor-sanders-wildwork-FINAL-1574709965.mp3"
-episode_image: "/assets/images/wild-work-cover-valerie.png"
 
 podcast_file_size: "30MB"
 podcast_duration: "37:20"
