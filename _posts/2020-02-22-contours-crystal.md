@@ -6,9 +6,9 @@ categories:
     - "ski resorts"
     - "skiing"
 header:
-    teaser: https://skimap.org/data/193/3535/1576353448jpg_render.jpg
-    image: https://skimap.org/data/193/3535/1576353448jpg_render.jpg
-    caption: "Crystal Mountain"
+    teaser: /assets/images/crystal_liftline.jpg
+    image:  /assets/images/crystal_liftline.jpg
+    caption: "Crystal Mountain Liftlines (Tony Cannistra)"
 author_profile: false
 excerpt: "Washington's largest ski resort made a big change in their ticket sales policy. We took the slopes and asked folks about it."
 image: /assets/images/zion.jpg
