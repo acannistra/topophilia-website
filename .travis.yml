@@ -1,21 +1,25 @@
 cache: bundler
 branches:
   only:
-    - gh-pages
-    - /^release-.*/
-    - /^test-.*/
+  - gh-pages
+  - "/^release-.*/"
+  - "/^test-.*/"
 language: ruby
 rvm: 2.1
+before_script:
+  - bash setup-staging.sh
 script: bundle exec jekyll build
 group: stable
 dist: trusty
 os: linux
-addons:
-  artifacts:
-    debug: true
-    paths:
-      - ./_site/
-    target_paths: $TRAVIS_BRANCH
-    working_dir: WORKING_DIR
-    bucket: staging.topophiliapodcast.com
-    s3_region: us-west-2
+deploy:
+  provider: s3
+  access_key_id: "$ARTIFACTS_KEY"
+  secret_access_key: "$ARTIFACTS_SECRET"
+  bucket: "staging.topophiliapodcast.com"
+  skip_cleanup: true
+  upload-dir: "$TRAVIS_BRANCH"
+  local-dir: _site
+  region: "us-west-2"
+  on:
+    all_branches: true
