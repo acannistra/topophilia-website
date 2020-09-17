@@ -11,7 +11,7 @@ header:
 author_profile: false
 excerpt: "Our first episode of The Current."
 podcast_link: https://static.topophiliapodcast.com/audio/thecurrent-9_13.mp3
-episode_image: "/assets/images/the_current_09_16.jpg"
+episode_image: "/assets/images/the_current_9_16.jpg"
 podcast_file_size: "24.1MB"
 podcast_duration: "19:51"
 podcast_length: 25291054
