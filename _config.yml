@@ -72,7 +72,7 @@ social:
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
-  google:   
+  google:
     tracking_id          : "UA-117700404-1"
 
 
@@ -82,20 +82,20 @@ author:
   avatar           : "/assets/images/topophilia-logo-square.jpg"
   bio              : "A podcast about place."
   location         : "Seattle, Washington. USA."
-  email            : 
+  email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
-  keybase          : 
-  instagram        : 
-  lastfm           : 
-  linkedin         : 
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -112,7 +112,7 @@ author:
 podcast_url: http://www.topophiliapodcast.com
 podcast_album_art: "/assets/images/podcastcover.png"
 podcast_title: Topophilia
-podcast_owner: Tony Cannistra and Will Russack 
+podcast_owner: Tony Cannistra and Will Russack
 podcast_email: tony.cannistra@gmail.com
 podcast_category: Outdoor
 podcast_explicit: "yes"
@@ -262,7 +262,7 @@ defaults:
       share: true
       related: true
 
-collections: 
+collections:
   posts:
     output: true
     permalink: /episodes/:year/:month/:day-:title:output_ext ## label with episodes!
@@ -270,9 +270,8 @@ collections:
 jekyll-archives:
   enabled:
     - year
-    - month    
+    - month
   layout: 'archive-taxonomy'
   permalinks:
     year: /episodes/:year/
     month: /episodes/:year/:month/
-
