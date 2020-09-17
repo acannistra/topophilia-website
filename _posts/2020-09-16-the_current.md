@@ -10,12 +10,8 @@ header:
     caption: "Some folks outdoors."
 author_profile: false
 excerpt: "Our first episode of The Current."
-<<<<<<< HEAD
 podcast_link: https://static.topophiliapodcast.com/audio/thecurrent-9_13.mp3
-=======
-podcast_link: http://static.topophiliapodcast.com/audio/thecurrent-9_13.mp3
->>>>>>> f506d9f3b87426707d23d39edce70d2be3a9647e
-episode_image: "/assets/images/the_current_09_17.png"
+episode_image: "/assets/images/the_current_09_16.jpg"
 podcast_file_size: "24.1MB"
 podcast_duration: "19:51"
 podcast_length: 25291054
